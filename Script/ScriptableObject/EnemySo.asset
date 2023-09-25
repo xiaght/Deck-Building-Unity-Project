@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a56aa63be19c9418f057acfd931fee, type: 3}
+  m_Name: EnemySo
+  m_EditorClassIdentifier: 
+  Enemys:
+  - EnemyNum: 0
+    EnemyName: 
+    EnemyHp: 0
+    Grade: 0
+    AttackPower: 0
+    EnemyImage: {fileID: 0}
+    PatternList: 
+  - EnemyNum: 1
+    EnemyName: "\uACE0\uC2A4\uD2B8"
+    EnemyHp: 100
+    Grade: 0
+    AttackPower: 10
+    EnemyImage: {fileID: 21300000, guid: 1d5c2b524d7734240a82bc6b06f841c8, type: 3}
+    PatternList: 000000000100000002000000
+  - EnemyNum: 2
+    EnemyName: "\uC7A1\uBAB9_1"
+    EnemyHp: 50
+    Grade: 0
+    AttackPower: 5
+    EnemyImage: {fileID: 8596640243658272642, guid: 5d4daff38e3d9174b873918abcf2c1d4, type: 3}
+    PatternList: 000000000300000003000000
+  - EnemyNum: 3
+    EnemyName: "\uC7A1\uBAB9_2"
+    EnemyHp: 100
+    Grade: 0
+    AttackPower: 10
+    EnemyImage: {fileID: -730248880921602624, guid: 5100b75572e484e458e4340e2afe9454, type: 3}
+    PatternList: 03000000
+  - EnemyNum: 4
+    EnemyName: "\uC7A1\uBAB9_3"
+    EnemyHp: 10
+    Grade: 0
+    AttackPower: 30
+    EnemyImage: {fileID: 3776312371561069292, guid: 031678d507e557a41b7a16fc33bf6c39, type: 3}
+    PatternList: 000000000300000003000000
+  - EnemyNum: 5
+    EnemyName: "\uC7A1\uBAB9_4"
+    EnemyHp: 1
+    Grade: 0
+    AttackPower: 100
+    EnemyImage: {fileID: 7293598183456022363, guid: 1ddc9afd21fec77489b1248d18f31b68, type: 3}
+    PatternList: 000000000300000003000000

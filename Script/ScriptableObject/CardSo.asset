@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08038c27019ceee4ab1d346498a604ca, type: 3}
+  m_Name: CardSo
+  m_EditorClassIdentifier: 
+  Cards:
+  - CardName: "\uAE30\uBCF8\uACF5\uACA9"
+    CardNum: 0
+    Cost: 0
+    CardText: 
+    Gold: 0
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 
+    EffectNum: 
+    CardImage: {fileID: 0}
+  - CardName: "\uB4DC\uB85C\uC6B0 +1"
+    CardNum: 1
+    Cost: 2
+    CardText: "\uB4DC\uB85C\uC6B0+1"
+    Gold: 5
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 000000000a000000
+    EffectNum: 0100000003000000
+    CardImage: {fileID: 21300000, guid: c5c867e9976dc5d4a8803e01578752f5, type: 3}
+  - CardName: "\uB4DC\uB85C\uC6B0 +2"
+    CardNum: 1
+    Cost: 3
+    CardText: "\uB4DC\uB85C\uC6B0+2"
+    Gold: 7
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 000000000a000000
+    EffectNum: 0200000005000000
+    CardImage: {fileID: 21300000, guid: c5c867e9976dc5d4a8803e01578752f5, type: 3}
+  - CardName: "\uB354\uBBF8\uCE74\uB4DC"
+    CardNum: 1
+    Cost: 0
+    CardText: "\uB354\uBBF8\uB2E4"
+    Gold: 0
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 0a000000
+    EffectNum: 05000000
+    CardImage: {fileID: 21300000, guid: d605befd4bec61449b7a5c492aaf2361, type: 3}
+  - CardName: "\uC790\uD574 \uB4DC\uB85C\uC6B0"
+    CardNum: 4
+    Cost: 0
+    CardText: "\uC790\uD574 10 \uB4DC\uB85C\uC6B0 1"
+    Gold: 10
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 0300000000000000
+    EffectNum: 0a00000001000000
+    CardImage: {fileID: 21300000, guid: de328077ad8c9594c9ec3cf1023b25fe, type: 3}
+  - CardName: "\uC790\uD574 \uCF54\uC2A4\uD2B8"
+    CardNum: 5
+    Cost: 0
+    CardText: "\uC790\uD5745 \uCF54\uC2A4\uD2B8 2"
+    Gold: 10
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 0300000001000000
+    EffectNum: 0500000002000000
+    CardImage: {fileID: 21300000, guid: 667647984c5ed7f498543ddc58a219a4, type: 3}
+  - CardName: "\uD328\uB4DC\uB78D \uB370\uBBF8\uC9C0"
+    CardNum: 6
+    Cost: 0
+    CardText: "\uD328\uB4DC\uB78D +1 \uB370\uBBF8\uC9C0 10"
+    Gold: 10
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 040000000a000000
+    EffectNum: 010000000a000000
+    CardImage: {fileID: 21300000, guid: 43358b703766fee4ebe64c7fbd583376, type: 3}
+  - CardName: "\uBCF4\uD638\uB9C9"
+    CardNum: 7
+    Cost: 0
+    CardText: "\uBCF4\uD638\uB9C9"
+    Gold: 12
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 08000000
+    EffectNum: 0a000000
+    CardImage: {fileID: 21300000, guid: 1815ea71c4e799e45b0db8899c240c4a, type: 3}
+  - CardName: "\uC2A4\uD134"
+    CardNum: 8
+    Cost: 0
+    CardText: "\uC2A4\uD134"
+    Gold: 15
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 0b000000
+    EffectNum: 00000000
+    CardImage: {fileID: 21300000, guid: ed8ef41e0593c444f89985400bb18768, type: 3}
+  - CardName: "\uC4F0\uB808\uAE30"
+    CardNum: 9
+    Cost: 1
+    CardText: "\uBC29\uD574\uCE74\uB4DC"
+    Gold: 0
+    Hp: 0
+    Attack_Star: 0
+    EffectList: 09000000
+    EffectNum: 09000000
+    CardImage: {fileID: 21300000, guid: 33a6203d7c3a9244ba0e334f4fe0ac3a, type: 3}

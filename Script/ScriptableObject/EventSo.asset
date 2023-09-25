@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a47054d1e3b0bf47ae18f9aee476265, type: 3}
+  m_Name: EventSo
+  m_EditorClassIdentifier: 
+  Events:
+  - EventName: 
+    EventNum: 0
+    Type: 0
+    CostList: 
+    CostNum: 
+    RewardList: 
+    RewardNum: 
+    EventImage: {fileID: 0}
+    EventText: 
+  - EventName: "\uD68C\uBCF5 \uC774\uBCA4\uD2B8"
+    EventNum: 1
+    Type: 0
+    CostList: 
+    CostNum: 
+    RewardList: 00000000
+    RewardNum: 0a000000
+    EventImage: {fileID: 0}
+    EventText: "\uCCB4\uB825\uC744 \uD68C\uBCF5\uD569\uB2C8\uB2E4"
+  - EventName: "\uACE8\uB4DC \uC774\uBCA4\uD2B8"
+    EventNum: 2
+    Type: 0
+    CostList: 
+    CostNum: 
+    RewardList: 01000000
+    RewardNum: 0a000000
+    EventImage: {fileID: 0}
+    EventText: "\uACE8\uB4DC\uB97C \uD68D\uB4DD\uD569\uB2C8\uB2E4"
+  - EventName: "\uCCB4\uB825 \uACE8\uB4DC \uC774\uBCA4\uD2B8"
+    EventNum: 3
+    Type: 1
+    CostList: 00000000
+    CostNum: 0a000000
+    RewardList: 01000000
+    RewardNum: 0a000000
+    EventImage: {fileID: 0}
+    EventText: "\uCCB4\uB825\uC744 \uC18C\uBAA8\uD558\uACE0 \uACE8\uB4DC\uB97C \uD68D\uB4DD\uD569\uB2C8\uB2E4"
+  - EventName: "\uCE74\uB4DC \uC81C\uAC70 \uC774\uBCA4\uD2B8"
+    EventNum: 4
+    Type: 0
+    CostList: 
+    CostNum: 
+    RewardList: 04000000
+    RewardNum: 00000000
+    EventImage: {fileID: 0}
+    EventText: "\uCE74\uB4DC\uB97C \uC81C\uAC70\uD569\uB2C8\uB2E4"

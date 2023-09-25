@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf588d264c2b1843a2466cbcbec4a45, type: 3}
+  m_Name: ItemSo
+  m_EditorClassIdentifier: 
+  Items:
+  - ItemName: 
+    itemType: 0
+    EffectList: 
+    EffectNum: 
+    ItemImage: {fileID: 0}
+    ItemNum: 0
+  - ItemName: "\uD68C\uBCF5\uBB3C\uC57D"
+    itemType: 0
+    EffectList: 00000000
+    EffectNum: 0a000000
+    ItemImage: {fileID: 21300000, guid: f816f63babfcb3e4d92c5cd9bb193149, type: 3}
+    ItemNum: 1
+  - ItemName: "\uC911\uAE09\uD68C\uBCF5\uBB3C\uC57D"
+    itemType: 0
+    EffectList: 00000000
+    EffectNum: 0f000000
+    ItemImage: {fileID: 21300000, guid: f816f63babfcb3e4d92c5cd9bb193149, type: 3}
+    ItemNum: 2
+  - ItemName: "\uC0C1\uAE09\uD68C\uBCF5\uBB3C\uC57D"
+    itemType: 0
+    EffectList: 00000000
+    EffectNum: 14000000
+    ItemImage: {fileID: 21300000, guid: 9967dc9c6c023804490a2f656ff50533, type: 3}
+    ItemNum: 3
+  - ItemName: "\uD22C\uCC99\uBB3C\uC57D"
+    itemType: 0
+    EffectList: 02000000
+    EffectNum: 0a000000
+    ItemImage: {fileID: 21300000, guid: 062eeb9d5e8ba8f45a9ddfea52518f82, type: 3}
+    ItemNum: 4
+  - ItemName: "\uC911\uAE09\uD22C\uCC99\uBB3C\uC57D"
+    itemType: 0
+    EffectList: 00000000
+    EffectNum: 0f000000
+    ItemImage: {fileID: 21300000, guid: 062eeb9d5e8ba8f45a9ddfea52518f82, type: 3}
+    ItemNum: 5
+  - ItemName: "\uC0C1\uAE09\uD22C\uCC99\uBB3C\uC57D"
+    itemType: 0
+    EffectList: 00000000
+    EffectNum: 14000000
+    ItemImage: {fileID: 21300000, guid: 062eeb9d5e8ba8f45a9ddfea52518f82, type: 3}
+    ItemNum: 6
+  - ItemName: "\uBC84\uD504\uC5C5!"
+    itemType: 1
+    EffectList: 01000000
+    EffectNum: 0a000000
+    ItemImage: {fileID: 21300000, guid: c5c867e9976dc5d4a8803e01578752f5, type: 3}
+    ItemNum: 7

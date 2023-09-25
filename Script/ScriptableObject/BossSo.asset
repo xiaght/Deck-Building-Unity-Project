@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a56aa63be19c9418f057acfd931fee, type: 3}
+  m_Name: BossSo
+  m_EditorClassIdentifier: 
+  Enemys:
+  - EnemyNum: 0
+    EnemyName: 
+    EnemyHp: 0
+    Grade: 0
+    AttackPower: 0
+    EnemyImage: {fileID: 0}
+    PatternList: 
+  - EnemyNum: 1
+    EnemyName: Boss_1
+    EnemyHp: 100
+    Grade: 0
+    AttackPower: 10
+    EnemyImage: {fileID: 7040038629683462113, guid: 241f742f0911c3a428eea6612ae23b77, type: 3}
+    PatternList: 0000000003000000
+  - EnemyNum: 2
+    EnemyName: Boss_2
+    EnemyHp: 150
+    Grade: 0
+    AttackPower: 5
+    EnemyImage: {fileID: 781615245368611544, guid: 62a315a8619ac644f899c29e008115c0, type: 3}
+    PatternList: 000000000300000003000000
+  - EnemyNum: 3
+    EnemyName: Boss_3
+    EnemyHp: 300
+    Grade: 0
+    AttackPower: 3
+    EnemyImage: {fileID: 781615245368611544, guid: 5fd9f3ec1e3e0bc4d8e308e10012a36a, type: 3}
+    PatternList: 00000000
